@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/razor/razor.csproj": {}
+    "/Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/la-mia-pizzeria-razor-layout/razor/razor.csproj": {}
   },
   "projects": {
-    "/Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/razor/razor.csproj": {
+    "/Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/la-mia-pizzeria-razor-layout/razor/razor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/razor/razor.csproj",
+        "projectUniqueName": "/Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/la-mia-pizzeria-razor-layout/razor/razor.csproj",
         "projectName": "razor",
-        "projectPath": "/Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/razor/razor.csproj",
+        "projectPath": "/Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/la-mia-pizzeria-razor-layout/razor/razor.csproj",
         "packagesPath": "/Users/giusepperusso/.nuget/packages/",
-        "outputPath": "/Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/razor/obj/",
+        "outputPath": "/Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/la-mia-pizzeria-razor-layout/razor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/giusepperusso/.nuget/NuGet/NuGet.Config"
