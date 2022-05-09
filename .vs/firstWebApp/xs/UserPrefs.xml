@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{88640238-520E-4C17-A8F4-198ED458B03B}|Default">
+  <MonoDevelop.Ide.ItemProperties.razor FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="firstWebApp/Views/Shared/_MioLayout.cshtml">
+    <Files>
+      <File FileName="firstWebApp/Views/Shared/_MioLayout.cshtml" Line="18" Column="48" />
+      <File FileName="firstWebApp/wwwroot/css/style.css" Line="23" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="firstWebApp" expanded="True">
+            <Node name="firstWebApp" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_MioLayout.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="img" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="razor" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.firstWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
