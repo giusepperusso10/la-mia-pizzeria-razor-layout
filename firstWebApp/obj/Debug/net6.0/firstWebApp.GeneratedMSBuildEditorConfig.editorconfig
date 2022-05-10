@@ -15,12 +15,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/la-mia-pizzeria-razor-layout/firstWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/la-mia-pizzeria-razor-layout/firstWebApp/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[/Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/la-mia-pizzeria-razor-layout/firstWebApp/Views/Home/Bevande.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9CZXZhbmRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/la-mia-pizzeria-razor-layout/firstWebApp/Views/Home/HomePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Ib21lUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/la-mia-pizzeria-razor-layout/firstWebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/la-mia-pizzeria-razor-layout/firstWebApp/Views/Pizza/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGl6emEvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/giusepperusso/Desktop/Esercizi Generation/firstWebApp/la-mia-pizzeria-razor-layout/firstWebApp/Views/Shared/Error.cshtml]

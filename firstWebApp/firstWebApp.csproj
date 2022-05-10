@@ -11,5 +11,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="wwwroot\img\" />
+    <Folder Include="Views\Pizza\" />
+    <Folder Include="Utilis\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Views\Pizza\" />
+    <None Remove="Utilis\" />
   </ItemGroup>
 </Project>
